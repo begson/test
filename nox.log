@@ -1,0 +1,34 @@
+TIME     : 2016-07-26 15:17:47
+FILE     : WorkThread.cpp
+FUNCTION : CWorkThread::start
+LINENUM  : 68
+DETAIL   : WorkThread ID : 9072
+
+
+TIME     : 2016-07-26 15:17:47
+FILE     : WorkThread.cpp
+FUNCTION : CWorkThread::start
+LINENUM  : 68
+DETAIL   : WorkThread ID : 8592
+
+
+TIME     : 2016-07-26 15:17:47
+FILE     : WorkThread.cpp
+FUNCTION : CWorkThread::start
+LINENUM  : 68
+DETAIL   : WorkThread ID : 7212
+
+
+TIME     : 2016-07-26 15:17:47
+FILE     : WorkThread.cpp
+FUNCTION : CWorkThread::start
+LINENUM  : 68
+DETAIL   : WorkThread ID : 8292
+
+
+TIME     : 2016-07-26 15:17:47
+FILE     : VBoxApi.cpp
+FUNCTION : VB_StopMachine
+LINENUM  : 371
+DETAIL   : ErrorCode is "8". Detail : VB_ERR_MACHINE_STOP_FAIL
+
